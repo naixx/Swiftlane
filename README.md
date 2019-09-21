@@ -2,7 +2,7 @@
 # Overview
 
 Create an Android app that displays a scrollable list of images. The app will load the images
-from the Pixabay Service using their API.
+from the Pixabay Service using their [API](https://pixabay.com/api/docs/).
 
 # Minimum Requirements
 - All code must be written in Kotlin
